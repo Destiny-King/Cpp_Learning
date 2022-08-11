@@ -15,5 +15,8 @@
         <module>rominmall-order</module>
         <module>rominmall-product</module>
         <module>rominmall-ware</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>rominmall-common</module>
     </modules>
 </project>
