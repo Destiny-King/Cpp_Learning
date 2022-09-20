@@ -3,7 +3,10 @@
 
 **/.mvn
 **/target/
+**/.iml
 
 .idea
+LICENSE
+Dockerfile
 
 **/.gitignore
