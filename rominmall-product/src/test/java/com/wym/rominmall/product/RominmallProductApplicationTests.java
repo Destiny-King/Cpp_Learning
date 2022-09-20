@@ -3,7 +3,7 @@ package com.wym.rominmall.product;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.wym.rominmall.product.entity.BrandEntity;
 import com.wym.rominmall.product.service.BrandService;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
