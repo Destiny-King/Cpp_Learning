@@ -11,6 +11,9 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
  * c.给配置中心默认添加一个叫数据集
  * d.给应用名.properties添加任何配置
  * e.动态获取配置
+ * <p>
+ * 2、每个微服务创建自己的命名空间，使用配置分组区分环境
+ * 3、同时加载多个配置集
  */
 
 @EnableDiscoveryClient
