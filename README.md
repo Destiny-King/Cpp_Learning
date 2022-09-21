@@ -8,3 +8,4 @@
 6. rominmall-order：订单模块
 7. rominmall-product：商品模块
 8. rominmall-ware：库存模块
+9. rominmall-gateway：网关模块
